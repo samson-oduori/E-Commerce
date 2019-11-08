@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "King Shoe",
+        "price": 11.99,
+        "image": { "fields": { "file": { "url": "./images/shoe1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Queen Shoe",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/shoe2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "CAT",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/shoe3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "toughees",
+        "price": 13.99,
+        "image": { "fields": { "file": { "url": "./images/shoe4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "CAT",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/shoe9.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "girl shoes",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/shoe6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "loofer",
+        "price": 25.99,
+        "image": { "fields": { "file": { "url": "./images/shoe7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "lacer shoes",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/shoe8.jpg" } } }
+      }
+    }
+  ]
+}
